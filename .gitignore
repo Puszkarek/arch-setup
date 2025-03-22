@@ -57,5 +57,5 @@ install
 .config/cmus/command-history
 .config/cmus/cache
 .config/cmus/lib.pl
-.config/cmus/retro.theme
+.config/google-chrome
 .config/cmus/search-history
