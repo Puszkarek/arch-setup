@@ -35,6 +35,7 @@ yay
 .xsession-errors
 .xsession-errors.old
 install
+screenshots
 
 # config
 .config/Code
