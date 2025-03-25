@@ -36,11 +36,21 @@ yay
 .xsession-errors.old
 install
 screenshots
+lang
+.java
+
+# Temp (maybe)
+.icons
 
 # config
+.config/atac/atac.log
+.config/atac/go testing.json
+.config/atac/go.json
+.config/discord
+.config/pavucontrol.ini
+.config/inkscape
 .config/Code
 .config/dconf
-.config/discord
 .config/Electron
 .config/go
 .config/qBittorrent
