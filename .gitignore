@@ -38,12 +38,15 @@ install
 screenshots
 lang
 .java
-
+.pyenv
+music
+.python_history
 # Temp (maybe)
 .icons
 
 # config
 .config/atac/atac.log
+.config/gopls/prompt
 .config/atac/go testing.json
 .config/atac/go.json
 .config/discord
@@ -69,4 +72,6 @@ lang
 .config/cmus/cache
 .config/cmus/lib.pl
 .config/google-chrome
+.config/tidal_dl_ng
+.config/vi-mongo/config.yaml
 .config/cmus/search-history
