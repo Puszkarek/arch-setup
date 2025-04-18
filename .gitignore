@@ -13,6 +13,12 @@
 .vscode
 .wallaby
 .zen
+.wine
+.steam
+.steampath
+.steamid
+bugs.save
+gnupg
 ascii-live
 asciicam
 bass
@@ -43,9 +49,11 @@ music
 .python_history
 # Temp (maybe)
 .icons
+.nvm
 
 # config
 .config/atac/atac.log
+.config/UNDERTALE
 .config/gopls/prompt
 .config/atac/go testing.json
 .config/atac/go.json
