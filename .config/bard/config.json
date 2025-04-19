@@ -1,0 +1,8 @@
+{
+  "tidal_token": "eyJraWQiOiJ2OU1GbFhqWSIsImFsZyI6IkVTMjU2In0.eyJ0eXBlIjoibzJfYWNjZXNzIiwidWlkIjoyMDE3ODA5MzUsInNjb3BlIjoicl91c3Igd191c3IiLCJnVmVyIjowLCJzVmVyIjowLCJjaWQiOjgwNDksImN1ayI6ImRmMTQ5ODI5LTM5ZjQtNGJkNC1iMWQ0LTE4NzA5OWVjYjYzZCIsImV4cCI6MTc0NTA5MTc1NCwic2lkIjoiMmI4NjMwMTEtODgxYS00NjgyLTliZDMtZjhiMzllM2VjOGQ4IiwiaXNzIjoiaHR0cHM6Ly9hdXRoLnRpZGFsLmNvbS92MSJ9.gBgG9pBR4PyPPw3Js0Q3D12rApdPtmVJOz48-XLxQQEAdNmclhImV90uD1wxT1SbGcP_UrjCfT7ZVgLjgKLgQA",
+  "lyrics_folder": "/home/puszkarek/lyrics",
+  "colors": {
+    "default_fg": "green",
+    "focused_fg": "yellow"
+  }
+}

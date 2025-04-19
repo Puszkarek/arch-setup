@@ -50,7 +50,9 @@ music
 # Temp (maybe)
 .icons
 .nvm
-
+lyrics
+.electron-gyp
+Games
 # config
 .config/atac/atac.log
 .config/UNDERTALE
